@@ -1,0 +1,7 @@
+{
+  "name": "NutritionWise AI",
+  "description": "An AI-powered nutrition assessment and learning system designed for medical and health-science students. It features a detailed 24-hour diet recall assessment and an AI Diet Assistant to analyze findings and provide practical, context-aware recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
